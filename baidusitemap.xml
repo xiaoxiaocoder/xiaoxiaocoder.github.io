@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/javascript/typescript/2017-08-07-typescript-08-advanced-types.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>[TypeScript 08]手册指南: 高级类型</title>
+        <pubTime>2017-08-07T02:41:24.000Z</pubTime>
+        
+        <tag>typescript</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="https://xiaoxiaocoder.github.io/categories/programming/"/>
+          
+             
+              <breadCrumb title="javascript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/"/>
+          
+             
+              <breadCrumb title="typescript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/typescript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/2017-07-17-Hexo-Grammer.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo Grammer</title>
+        <pubTime>2017-07-17T05:44:20.000Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="https://xiaoxiaocoder.github.io/categories/programming/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/2017-07-18-Hexo-%E8%B8%A9%E5%9D%91%E8%AE%B0.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo 踩坑记</title>
+        <pubTime>2017-07-18T13:17:25.000Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/css3/transition/2017-07-26-css3-amimation.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>[CSS3 温故] 设计动画</title>
+        <pubTime>2017-07-26T11:02:08.000Z</pubTime>
+        
+        <tag>tranistion</tag>
+         
+        <tag>animations</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="https://xiaoxiaocoder.github.io/categories/programming/"/>
+          
+             
+              <breadCrumb title="css3" url="https://xiaoxiaocoder.github.io/categories/programming/css3/"/>
+          
+             
+              <breadCrumb title="动画" url="https://xiaoxiaocoder.github.io/categories/programming/css3/transition/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/2017-07-27-css3-background.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>[CSS3 温故] background</title>
+        <pubTime>2017-07-27T07:12:54.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/css3/transform/2017-07-26-css3-transform-md.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>[CSS3 温故] transform</title>
+        <pubTime>2017-07-26T06:44:07.000Z</pubTime>
+        
+        <tag>css3</tag>
+         
+        <tag>transform</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="https://xiaoxiaocoder.github.io/categories/programming/"/>
+          
+             
+              <breadCrumb title="css3" url="https://xiaoxiaocoder.github.io/categories/programming/css3/"/>
+          
+             
+              <breadCrumb title="transform" url="https://xiaoxiaocoder.github.io/categories/programming/css3/transform/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/docker/2017-07-19-docker-started.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>docker-started</title>
+        <pubTime>2017-07-19T05:10:09.000Z</pubTime>
+        
+        <tag>docker</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="https://xiaoxiaocoder.github.io/categories/programming/"/>
+          
+             
+              <breadCrumb title="docker" url="https://xiaoxiaocoder.github.io/categories/programming/docker/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/2017-07-20-linux-started.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>linux-started</title>
+        <pubTime>2017-07-20T01:55:11.000Z</pubTime>
+        
+        <tag>linux</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/javascript/reactjs/2017-08-12-reactjs-started.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>React学习笔记</title>
+        <pubTime>2017-08-12T08:08:25.000Z</pubTime>
+        
+        <tag>reactjs</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="https://xiaoxiaocoder.github.io/categories/programming/"/>
+          
+             
+              <breadCrumb title="javascript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/"/>
+          
+             
+              <breadCrumb title="reactjs" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/reactjs/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/javascript/typescript/2017-07-24-typescript-02-class.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>[TypeScript 02]手册指南: 类</title>
+        <pubTime>2017-07-24T08:52:57.000Z</pubTime>
+        
+        <tag>typescript</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="https://xiaoxiaocoder.github.io/categories/programming/"/>
+          
+             
+              <breadCrumb title="javascript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/"/>
+          
+             
+              <breadCrumb title="typescript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/typescript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/javascript/typescript/2017-07-22-typescript-01-Started.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>[TypeScript 01]介绍. 手册指南:基础类型,变量声明,接口</title>
+        <pubTime>2017-07-22T09:28:37.000Z</pubTime>
+        
+        <tag>typescript</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="https://xiaoxiaocoder.github.io/categories/programming/"/>
+          
+             
+              <breadCrumb title="javascript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/"/>
+          
+             
+              <breadCrumb title="typescript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/typescript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/javascript/typescript/2017-08-03-typescript-03-function.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>[TypeScript 03]手册指南: 函数</title>
+        <pubTime>2017-08-03T15:00:00.000Z</pubTime>
+        
+        <tag>typescript</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="https://xiaoxiaocoder.github.io/categories/programming/"/>
+          
+             
+              <breadCrumb title="javascript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/"/>
+          
+             
+              <breadCrumb title="typescript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/typescript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/javascript/typescript/2017-08-05-typescript-04-generics.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>[TypeScript 04]手册指南: 泛型</title>
+        <pubTime>2017-08-05T01:23:07.000Z</pubTime>
+        
+        <tag>typescript</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="https://xiaoxiaocoder.github.io/categories/programming/"/>
+          
+             
+              <breadCrumb title="javascript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/"/>
+          
+             
+              <breadCrumb title="typescript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/typescript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/javascript/typescript/2017-08-05-typescript-05-enums.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>[TypeScript 05]手册指南: 枚举</title>
+        <pubTime>2017-08-05T09:41:27.000Z</pubTime>
+        
+        <tag>typescript</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="https://xiaoxiaocoder.github.io/categories/programming/"/>
+          
+             
+              <breadCrumb title="javascript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/"/>
+          
+             
+              <breadCrumb title="typescript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/typescript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/javascript/typescript/2017-08-05-typescript-06-type-inference.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>[TypeScript 06]手册指南: 类型推断</title>
+        <pubTime>2017-08-05T10:50:02.000Z</pubTime>
+        
+        <tag>typescript</tag>
+         
+        <tag>type-inference</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="https://xiaoxiaocoder.github.io/categories/programming/"/>
+          
+             
+              <breadCrumb title="javascript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/"/>
+          
+             
+              <breadCrumb title="typescript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/typescript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/javascript/typescript/2017-08-05-typescript-07-type-compatibility.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>[TypeScript 07]手册指南: 类型兼容性</title>
+        <pubTime>2017-08-05T11:58:12.000Z</pubTime>
+        
+        <tag>typescript</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="https://xiaoxiaocoder.github.io/categories/programming/"/>
+          
+             
+              <breadCrumb title="javascript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/"/>
+          
+             
+              <breadCrumb title="typescript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/typescript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/javascript/typescript/2017-08-19-typescript-09-symbols.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>[TypeScript 09]手册指南: Symbols</title>
+        <pubTime>2017-08-19T14:27:47.000Z</pubTime>
+        
+        <tag>typescript</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="https://xiaoxiaocoder.github.io/categories/programming/"/>
+          
+             
+              <breadCrumb title="javascript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/"/>
+          
+             
+              <breadCrumb title="typescript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/typescript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/2017-07-17-Hexo-Started.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo Started</title>
+        <pubTime>2017-07-17T06:36:02.000Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="https://xiaoxiaocoder.github.io/categories/programming/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/javascript/typescript/2017-08-19-typescript-10-iterators-and-generators.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>[TypeScript 10]手册指南: 迭代器和生成器</title>
+        <pubTime>2017-08-19T14:49:35.000Z</pubTime>
+        
+        <tag>typescript</tag>
+         
+        <tag>iterator</tag>
+         
+        <tag>generator</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="https://xiaoxiaocoder.github.io/categories/programming/"/>
+          
+             
+              <breadCrumb title="javascript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/"/>
+          
+             
+              <breadCrumb title="typescript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/typescript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/javascript/typescript/2017-08-19-typescript-11-modules.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>[TypeScript 11]手册指南: 模块</title>
+        <pubTime>2017-08-19T15:12:02.000Z</pubTime>
+        
+        <tag>typescript</tag>
+         
+        <tag>modules</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="https://xiaoxiaocoder.github.io/categories/programming/"/>
+          
+             
+              <breadCrumb title="javascript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/"/>
+          
+             
+              <breadCrumb title="typescript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/typescript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/javascript/typescript/2017-08-22-typescript-12-namespaces.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>[TypeScript 12]手册指南: 命名空间</title>
+        <pubTime>2017-08-22T01:27:11.000Z</pubTime>
+        
+        <tag>typescript</tag>
+         
+        <tag>namespaces</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="https://xiaoxiaocoder.github.io/categories/programming/"/>
+          
+             
+              <breadCrumb title="javascript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/"/>
+          
+             
+              <breadCrumb title="typescript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/typescript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/javascript/typescript/2017-08-22-typescript-13-namespacs-and-modules.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>[TypeScript 13]手册指南: 命名空间和模块</title>
+        <pubTime>2017-08-22T06:38:31.000Z</pubTime>
+        
+        <tag>typescript</tag>
+         
+        <tag>modules</tag>
+         
+        <tag>namespaces</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="https://xiaoxiaocoder.github.io/categories/programming/"/>
+          
+             
+              <breadCrumb title="javascript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/"/>
+          
+             
+              <breadCrumb title="typescript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/typescript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/javascript/typescript/2017-08-22-typescript-14-module-resolution.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>[TypeScript 14]手册指南: 模块解析</title>
+        <pubTime>2017-08-22T07:16:10.000Z</pubTime>
+        
+        <tag>typescript</tag>
+         
+        <tag>modules</tag>
+         
+        <tag>namespaces</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="https://xiaoxiaocoder.github.io/categories/programming/"/>
+          
+             
+              <breadCrumb title="javascript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/"/>
+          
+             
+              <breadCrumb title="typescript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/typescript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/javascript/typescript/2017-08-23-typescript-15-declaration-merging.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>[TypeScript 15]手册指南: 声明组合</title>
+        <pubTime>2017-08-23T13:48:19.000Z</pubTime>
+        
+        <tag>typescript</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="https://xiaoxiaocoder.github.io/categories/programming/"/>
+          
+             
+              <breadCrumb title="javascript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/"/>
+          
+             
+              <breadCrumb title="typescript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/typescript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/javascript/typescript/2017-08-25-typescript-17-decoarators.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>[TypeScript 17]手册指南: 装饰器</title>
+        <pubTime>2017-08-25T13:02:02.000Z</pubTime>
+        
+        <tag>typescript</tag>
+         
+        <tag>decorators</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="https://xiaoxiaocoder.github.io/categories/programming/"/>
+          
+             
+              <breadCrumb title="javascript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/"/>
+          
+             
+              <breadCrumb title="typescript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/typescript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/javascript/typescript/2017-08-24-typescript-16-jsx.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>[TypeScript 16]手册指南: JSX</title>
+        <pubTime>2017-08-24T04:01:03.000Z</pubTime>
+        
+        <tag>typescript</tag>
+         
+        <tag>jsx</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="https://xiaoxiaocoder.github.io/categories/programming/"/>
+          
+             
+              <breadCrumb title="javascript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/"/>
+          
+             
+              <breadCrumb title="typescript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/typescript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/javascript/typescript/2017-08-27-typescript-18-mixins.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>[TypeScript 18]手册指南: Mixins</title>
+        <pubTime>2017-08-27T05:58:46.000Z</pubTime>
+        
+        <tag>typescript</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="https://xiaoxiaocoder.github.io/categories/programming/"/>
+          
+             
+              <breadCrumb title="javascript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/"/>
+          
+             
+              <breadCrumb title="typescript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/typescript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/javascript/typescript/2017-08-27-typescript-19-triple-salash-directives.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>[TypeScript 19]手册指南: 三斜线指令</title>
+        <pubTime>2017-08-27T08:00:32.000Z</pubTime>
+        
+        <tag>typescript</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="https://xiaoxiaocoder.github.io/categories/programming/"/>
+          
+             
+              <breadCrumb title="javascript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/"/>
+          
+             
+              <breadCrumb title="typescript" url="https://xiaoxiaocoder.github.io/categories/programming/javascript/typescript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://xiaoxiaocoder.github.io/programming/2017-07-31-vuejs-common-issues.html</loc>
+    <lastmod>2017-12-09T06:32:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>VueJS 开发常见问题集锦</title>
+        <pubTime>2017-07-31T05:13:44.000Z</pubTime>
+        
+        <tag>vuejs</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+    
+    
+</urlset>
